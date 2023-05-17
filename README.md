@@ -7,7 +7,7 @@ $ yarn start
 
 
 ## Pushing project to GitHub repo
-$ git remote add origin https://github.com/TuanLeVietz/weather-app.git
+$ git remote add origin <github repository>
 $ git branch -M main
 $ git push -u origin main
 
