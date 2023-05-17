@@ -7,7 +7,7 @@ $ yarn start
 
 
 ## Pushing project to GitHub repo
-$ git remote add origin <github repository>
+$ git remote add origin <WTHR-app github repository>
 $ git branch -M main
 $ git push -u origin main
 
